@@ -1,0 +1,28 @@
+body{
+    font-size: larger;
+    display: grid;
+    place-content: center;
+    background-color: black;
+    color: white;
+}
+
+img{
+    width: 30vh;
+}
+
+
+#contenedor-producto{
+    border: 2px solid red;
+    background-color: rgb(118, 201, 201);
+    font-weight: bold;
+}
+
+button{
+    background-color: rgb(204, 133, 204);
+    font-size: large;
+}
+
+#contenedor-cantidad{
+    display: grid;
+    place-content: center;
+}
